@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ahmed Almufarriji 👋
 
-<!--
-**AhmedAlmufarriji/AhmedAlmufarriji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science Graduate | Python · Machine Learning · SQL · Power BI**
 
-Here are some ideas to get you started:
+I build data-driven projects across predictive analytics, forecasting, database design, and business intelligence. My focus is on clear problem framing, reproducible analysis, and communicating results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured projects
+
+| Project | What I worked on | Stack |
+|---|---|---|
+| [📈 Workforce Demand Forecasting](https://github.com/AhmedAlmufarriji/time-series-forecasting-capstone) | Structural-break analysis, SARIMAX, LightGBM, walk-forward backtesting, and uncertainty intervals — SDAIA Academy team capstone | Python, statsmodels, LightGBM |
+| [🧠 Medical Insurance Cost Prediction](https://github.com/AhmedAlmufarriji/data-science-analytics-portfolio/tree/main/01-machine-learning/medical-insurance-linear-regression) | Exploratory data analysis, feature encoding, linear regression, model evaluation | pandas, scikit-learn, Seaborn |
+| [📊 Retail Analytics & Power BI](https://github.com/AhmedAlmufarriji/data-science-analytics-portfolio/tree/main/05-business-intelligence) | Sales and profitability measures, dimensional modeling, analytical dashboards | Power BI, DAX, SQL |
+| [🗄️ Database Design Projects](https://github.com/AhmedAlmufarriji/data-science-analytics-portfolio/tree/main/04-databases) | Relational schemas, foreign keys, procedures, and MongoDB data modeling | MySQL, MongoDB |
+
+### 🛠️ Technical toolkit
+
+- **Programming & data:** Python, SQL, pandas, NumPy
+- **Analytics & visualization:** Exploratory Data Analysis (EDA), Matplotlib, Seaborn, Power BI, DAX
+- **Machine learning:** scikit-learn, LightGBM, model evaluation, time-series forecasting
+- **Databases:** MySQL, MongoDB
+- **Workflow:** Git, GitHub, Jupyter Notebook, Google Colab
+
+### 📁 More projects
+
+Explore my [**Data Science & Analytics Portfolio**](https://github.com/AhmedAlmufarriji/data-science-analytics-portfolio) for 14 organized educational projects with source code, notebooks, and documentation.
+
+> These repositories primarily contain educational assignments, course capstones, and prototypes, not commercial production deployments. Dataset sources and limitations are documented where relevant.
+
+### 🔗 Connect
+
+[**GitHub projects**](https://github.com/AhmedAlmufarriji?tab=repositories) · [**Portfolio repository**](https://github.com/AhmedAlmufarriji/data-science-analytics-portfolio)
+
+---
+*Interested in opportunities in Data Science, AI, and Data Analytics.*
