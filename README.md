@@ -8,6 +8,7 @@ I build data-driven projects across predictive analytics, forecasting, database 
 
 | Project | What I worked on | Stack |
 |---|---|---|
+| [🏟️ Graduation Project — KASC Predictive Crowd Management](https://github.com/BandarAlsarwani/KASC-Crowd-Management) | **Umm Al-Qura University team project (2025–2026):** developed a system for crowd congestion prediction, processing-time estimation, and congestion-aware stadium routing. Original source is maintained in a teammate's repository. | Python, scikit-learn, Dijkstra's algorithm, HTML dashboard |
 | [📈 Workforce Demand Forecasting](https://github.com/AhmedAlmufarriji/time-series-forecasting-capstone) | Structural-break analysis, SARIMAX, LightGBM, walk-forward backtesting, and uncertainty intervals — SDAIA Academy team capstone | Python, statsmodels, LightGBM |
 | [🧠 Medical Insurance Cost Prediction](https://github.com/AhmedAlmufarriji/data-science-analytics-portfolio/tree/main/01-machine-learning/medical-insurance-linear-regression) | Exploratory data analysis, feature encoding, linear regression, model evaluation | pandas, scikit-learn, Seaborn |
 | [📊 Retail Analytics & Power BI](https://github.com/AhmedAlmufarriji/data-science-analytics-portfolio/tree/main/05-business-intelligence) | Sales and profitability measures, dimensional modeling, analytical dashboards | Power BI, DAX, SQL |
