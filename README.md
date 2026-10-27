@@ -1,37 +1,50 @@
-# Hi, I'm Ahmed Almufarriji 👋
+# Ahmed Almufarriji
 
-**Data Science Graduate | Python · Machine Learning · SQL · Power BI**
+**Data Science Graduate | Applied AI · Machine Learning · Data Analytics · Data Engineering**
 
-I build data-driven projects across predictive analytics, forecasting, database design, and business intelligence. My focus is on clear problem framing, reproducible analysis, and communicating results.
+I’m a Data Science graduate from **Umm Al-Qura University, Saudi Arabia**, interested in building practical systems that turn data into useful decisions. My work spans predictive modeling, time-series forecasting, SQL/data modeling, business intelligence, and applied AI agents.
 
-### 🚀 Featured projects
+I focus on **clear problem definition, reproducible experiments, honest evaluation, and usable interfaces**.
 
-| Project | What I worked on | Stack |
-|---|---|---|
-| [💧 AquaSentinel AI — Agentic Water Digital Twin](https://github.com/AhmedAlmufarriji/data-science-analytics-portfolio/tree/main/06-applied-ai/aquasentinel-ai) | Built a local agentic water-network control tower combining Isolation Forest, leak localization on graphs, time-ordered demand forecasting, safe what-if simulations, evidence retrieval, and a FastAPI dashboard. Synthetic research prototype. | Python, scikit-learn, NetworkX, FastAPI, SQLite |
-| [🏟️ Graduation Project — KASC Predictive Crowd Management](https://github.com/BandarAlsarwani/KASC-Crowd-Management) | **Umm Al-Qura University team project (2025–2026):** developed a system for crowd congestion prediction, processing-time estimation, and congestion-aware stadium routing. Original source is maintained in a teammate's repository. | Python, scikit-learn, Dijkstra's algorithm, HTML dashboard |
-| [📈 Workforce Demand Forecasting](https://github.com/AhmedAlmufarriji/time-series-forecasting-capstone) | Structural-break analysis, SARIMAX, LightGBM, walk-forward backtesting, and uncertainty intervals — SDAIA Academy team capstone | Python, statsmodels, LightGBM |
-| [🧠 Medical Insurance Cost Prediction](https://github.com/AhmedAlmufarriji/data-science-analytics-portfolio/tree/main/01-machine-learning/medical-insurance-linear-regression) | Exploratory data analysis, feature encoding, linear regression, model evaluation | pandas, scikit-learn, Seaborn |
-| [📊 Retail Analytics & Power BI](https://github.com/AhmedAlmufarriji/data-science-analytics-portfolio/tree/main/05-business-intelligence) | Sales and profitability measures, dimensional modeling, analytical dashboards | Power BI, DAX, SQL |
-| [🗄️ Database Design Projects](https://github.com/AhmedAlmufarriji/data-science-analytics-portfolio/tree/main/04-databases) | Relational schemas, foreign keys, procedures, and MongoDB data modeling | MySQL, MongoDB |
+[![Explore Portfolio](https://img.shields.io/badge/Explore-Project%20Portfolio-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedAlmufarriji/data-science-analytics-portfolio)
+[![Forecasting Capstone](https://img.shields.io/badge/View-Forecasting%20Capstone-0f766e?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/AhmedAlmufarriji/time-series-forecasting-capstone)
 
-### 🛠️ Technical toolkit
+## Selected projects
 
-- **Programming & data:** Python, SQL, pandas, NumPy
-- **Analytics & visualization:** Exploratory Data Analysis (EDA), Matplotlib, Seaborn, Power BI, DAX
-- **Machine learning:** scikit-learn, LightGBM, model evaluation, time-series forecasting
-- **Databases:** MySQL, MongoDB
-- **Workflow:** Git, GitHub, Jupyter Notebook, Google Colab
+| Project | Engineering focus | Evidence |
+| --- | --- | --- |
+| [**Predictive Crowd Management — Graduation Project**](https://github.com/BandarAlsarwani/KASC-Crowd-Management) | Forecast congestion and checkpoint demand; explore safer crowd routing for King Abdullah Sports City | University **team project**; original repository is maintained by a teammate |
+| [**AquaSentinel AI — Water Network Digital Twin**](https://github.com/AhmedAlmufarriji/data-science-analytics-portfolio/tree/main/06-applied-ai/aquasentinel-ai) | Anomaly detection, graph-based leak localization, forecasting, scenario simulation and evidence-grounded investigation | Source code, architecture and locally runnable dashboard |
+| [**Workforce Demand Forecasting**](https://github.com/AhmedAlmufarriji/time-series-forecasting-capstone) | Structural-break analysis, time-aware model validation, classical forecasting, LightGBM and uncertainty estimation | Documented **SDAIA Academy team capstone** with notebook and test workflow |
+| [**ResiliTwin AI — Supply Chain Digital Twin**](https://github.com/AhmedAlmufarriji/data-science-analytics-portfolio/tree/main/06-applied-ai/resilitwin-ai) | Demand forecasting, supplier optimization, disruption simulation and explainable decision support | Reproducible code and simulated data |
+| [**SANAD — Saudi Arabic Agent Engineering**](https://github.com/AhmedAlmufarriji/data-science-analytics-portfolio/tree/main/06-applied-ai/sanad-agent-engineering) | Safety-first dialogue design, knowledge grounding, error recovery, voice-agent QA and escalation | System prompt, assessment case study and clearly labeled **offline scripted demo** |
+| [**SQL & Business Intelligence Projects**](https://github.com/AhmedAlmufarriji/data-science-analytics-portfolio#project-index) | Relational database design, data cleaning, Power Query, DAX and analytical reporting | Schemas, notebooks and dashboard companion files |
 
-### 📁 More projects
+## Technical stack
 
-Explore my [**Data Science & Analytics Portfolio**](https://github.com/AhmedAlmufarriji/data-science-analytics-portfolio) for organized educational projects with source code, notebooks, and documentation.
+| Area | Tools and methods |
+| --- | --- |
+| **Programming & data** | Python, SQL, pandas, NumPy, Jupyter |
+| **Machine learning** | scikit-learn, LightGBM, forecasting, feature engineering, model evaluation |
+| **Analytics & BI** | Exploratory data analysis, Matplotlib, Seaborn, Power BI, Power Query, DAX |
+| **Data platforms** | MySQL, MongoDB, SQLite, ETL/ELT concepts and relational modeling |
+| **Applied AI** | Agent workflows, retrieval-grounded responses, prompt design, tool-failure handling, FastAPI |
+| **Engineering workflow** | Git, GitHub, documentation, reproducible experiments and automated checks |
 
-> These repositories primarily contain educational assignments, course capstones, and prototypes, not commercial production deployments. Dataset sources and limitations are documented where relevant.
+## How I approach projects
 
-### 🔗 Connect
+**Problem → Data → Baseline → Validation → Explanation → Usable result**
 
-[**GitHub projects**](https://github.com/AhmedAlmufarriji?tab=repositories) · [**Portfolio repository**](https://github.com/AhmedAlmufarriji/data-science-analytics-portfolio)
+I try to document what can be reproduced, what was measured, and where each prototype's limitations begin. Projects involving simulated datasets, team contributions or non-production integrations are labeled accordingly.
+
+## Explore more
+
+- **[Full project portfolio](https://github.com/AhmedAlmufarriji/data-science-analytics-portfolio)** — machine learning, analytics, Python, SQL, business intelligence and applied AI
+- **[Time-series forecasting capstone](https://github.com/AhmedAlmufarriji/time-series-forecasting-capstone)** — notebook, methodology, evaluation and reproducibility guidance
+- **[GitHub repositories](https://github.com/AhmedAlmufarriji?tab=repositories)** — all public projects
 
 ---
-*Interested in opportunities in Data Science, AI, and Data Analytics.*
+
+*Interested in opportunities across AI, machine learning, data science and data analytics in Saudi Arabia.*
+
+<sub>Selected work includes academic team projects and independent prototypes; descriptions distinguish them from production deployments.</sub>
